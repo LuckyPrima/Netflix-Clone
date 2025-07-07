@@ -1,3 +1,5 @@
+![preview websiter](img/Screenshot%202025-07-07%20222748.png)
+
 # Netflix Clone
 
 This repository contains a [Netflix clone](https://netflix.luckyprima.site) project, built to replicate the user interface and some core functionalities of the popular streaming platform. This project leverages the **TMDB (The Movie Database) API** to fetch movie and TV show data, providing a dynamic and rich content experience.
